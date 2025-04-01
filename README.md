@@ -159,7 +159,7 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [Prerender](https://prerender.io/)
 > Prerender serves 100% cached versions of your web pages to search engine bots that have problems executing JavaScript.
 
-[OnRanko](https://onranko.io/)
+[OnRanko](https://onranko.com/)
 > AI Agents for digital marketing and SEO Automation. 
 
 ## Chrome Plugins
